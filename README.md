@@ -1,6 +1,6 @@
 ﻿<h1>🧑🏿‍🦱Abdimalik yuusuf </h1>
 
-🔐 I'm a security analyst and pentester passionate about securing systems and helping organizations safeguard their most crucial assets. With a background in web development spanning 2 years, I transitioned into the captivating realm of cybersecurity and have been deeply enamored ever since ❤️.
+🔐 Security Analyst & Penetration Tester passionate about defending systems and simulating attacks to help organizations safeguard their most valuable assets. With a foundation in web development (2 years), I transitioned into cybersecurity — now equipped with industry-recognized certifications and practical project experience.
 
 <h2>🎓Certifications</h2>
 <div>
@@ -36,5 +36,6 @@
 <h2> 🌐 Additional Info </h2>
 Founder of FashilHack – A cybersecurity initiative focused on simulating attacks & securing businesses.
 Interested in defensive & offensive security, with a career roadmap from Security Analyst ➝ Penetration Tester ➝ Red Teamer.
+
 
 

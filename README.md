@@ -1,19 +1,19 @@
-﻿<h1>🧑🏿‍🦱Abdimalik yuusuf <h4>secNuxusiye</h4></h1>
+﻿<h1>🧑🏿‍🦱Abdimalik yuusuf </h1>
 
 🔐 I'm a security analyst and pentester passionate about securing systems and helping organizations safeguard their most crucial assets. With a background in web development spanning 2 years, I transitioned into the captivating realm of cybersecurity and have been deeply enamored ever since ❤️.
 
 <h2>🎓Certifications</h2>
 <div>
-CompTIA Security+ (SY0-701)
-Google Cybersecurity Professional Certificate
-ISC2 Certified in Cybersecurity (CC)
+<p>CompTIA Security+ (SY0-701)</p>
+<p>Google Cybersecurity Professional Certificate</p>
+<p>ISC2 Certified in Cybersecurity (CC) </p>
 </div>
 
 <h2>📂 Projects </h2>
-<h4>🛡️ Penetration Testing Lab – Built and documented simulated attacks and defenses in a virtual environment.</h4>
-<h4>🔍 Log Analysis with SIEM (Wazuh + Splunk) – Detected and responded to malicious activities through log monitoring.</h4>
-<h4>🖥️ Active Directory Security Lab – Hardened and tested Windows domain environments.</h4>
-<h4>⚡ EDR Project (LimaCharlie) – Monitored and detected malicious tools on endpoints. </h4>
+<p>🛡️ Penetration Testing Lab – Built and documented simulated attacks and defenses in a virtual environment.</p>
+<p>🔍 Log Analysis with SIEM (Wazuh + Splunk) – Detected and responded to malicious activities through log monitoring.</p>
+<p>🖥️ Active Directory Security Lab – Hardened and tested Windows domain environments.</p>
+<p>⚡ EDR Project (LimaCharlie) – Monitored and detected malicious tools on endpoints. </p>
 
 <h2>🌟Programming languages</h2>
 <div>
@@ -33,7 +33,8 @@ ISC2 Certified in Cybersecurity (CC)
 <h2>Database</h2>
 <img src="./mysql.png" width="50px" height="50px">
 
-🌐 Additional Info
+<h2> 🌐 Additional Info </h2>
 Founder of FashilHack – A cybersecurity initiative focused on simulating attacks & securing businesses.
 Interested in defensive & offensive security, with a career roadmap from Security Analyst ➝ Penetration Tester ➝ Red Teamer.
+
 
